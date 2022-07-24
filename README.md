@@ -7,9 +7,9 @@
 
 ### Goals:  
 - Complete TOP Foundations: JS Basics section 
-– Finish the 100 Days of Code Python Pro Bootcamp on Udemy
-– Practice JS with FEM projects
-– Build Python applications from scratch
+- Finish the 100 Days of Code Python Pro Bootcamp on Udemy
+- Practice JS with FEM projects
+- Build Python applications from scratch
 
 ### Latest Project
 
