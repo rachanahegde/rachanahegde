@@ -18,5 +18,7 @@ Flask weather app that displays the weather forecast for any city.
 
 <a href="https://github.com/rachanahegde/python-weather-app"> Code </a> | <a href="https://weatherly-forecast-app.herokuapp.com/"> Live Site </a> 
 
-#### Contact
+<!--  
+#### Contact Info
 📫 Email me at hegde.rachana99@gmail.com
+-->
