@@ -1,6 +1,6 @@
 # Hi! My name is Rachana. 👋
 
-## I'm an English lit graduate pursuing a career in tech by self-studying Python and web development.
+## Incoming MSc Computer Science student at Nottingham University and First Class English lit graduate pursuing a career in tech by self-studying Python and web development.
 
 ### Currently... 
 ⭐️ Status: Learning JavaScript through FCC and Odin Project <br />
