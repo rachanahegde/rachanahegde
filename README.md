@@ -1,4 +1,4 @@
-# Hi! My name is Rachana. 👋
+# Hi! My name is Rachana. 
 
 ## I'm currently an MSc Computer Science student at Nottingham University with a first class BA in English Literature, pursuing a career in tech by self-studying Python and web development.
 
