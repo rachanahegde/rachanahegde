@@ -3,12 +3,10 @@
 ## I'm currently an MSc Computer Science student at Nottingham University with a first class BA in English Literature, pursuing a career in tech by learning Python and web development.
 
 ### Currently... 
-⭐️ Status: Learning JavaScript through FCC and Odin Project <br />
+⭐️ Status: Learning JavaScript through the Complete JavaScript Course on Udemy <br />
 
 ### Goals:  
-- Finish the 100 Days of Code Python Pro Bootcamp on Udemy
-- Practice JS
-- Build Python applications from scratch
+- Build 3 projects using JavaScript for my portfolio
 
 ### Latest Project
 <img src ="https://github.com/rachanahegde/python-weather-app/blob/master/screenshots/weather_app_desktop_forecast_page_screenshot.png">
