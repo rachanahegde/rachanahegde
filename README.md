@@ -9,7 +9,7 @@
 - Build 3 projects using JavaScript for my portfolio
 
 ### Latest Projects
-<img src = "https://github.com/rachanahegde/ecommerce-product-page/blob/master/screenshots/Ecommerce-Page-Laptop.jpg">
+<img src = "https://github.com/rachanahegde/ecommerce-product-page/blob/main/screenshots/Ecommerce-Page-Laptop.jpeg">
 
 Product page featuring lightbox product gallery and cart functionality implemented with HTML, CSS, and JavaScript based on UI designs from Frontend Mentor.
 
