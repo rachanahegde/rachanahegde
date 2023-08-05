@@ -8,7 +8,11 @@
 ### Goals:  
 - Build 3 projects using JavaScript for my portfolio
 
-### Latest Project
+### Latest Projects
+<img src = "https://github.com/rachanahegde/ecommerce-product-page/blob/master/screenshots/Ecommerce-Page-Laptop.jpg">
+
+Product page featuring lightbox product gallery and cart functionality implemented with HTML, CSS, and JavaScript based on UI designs from Frontend Mentor.
+
 <img src ="https://github.com/rachanahegde/python-weather-app/blob/master/screenshots/weather_app_desktop_forecast_page_screenshot.png">
 
 Flask weather app that displays the weather forecast for any city. 
