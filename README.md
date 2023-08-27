@@ -13,6 +13,8 @@
 
 Product page featuring lightbox product gallery and cart functionality implemented with HTML, CSS, and JavaScript based on UI designs from Frontend Mentor.
 
+<a href="https://github.com/rachanahegde/https://github.com/rachanahegde/ecommerce-product-page"> Code </a> | <a href="https://rachanahegde.github.io/ecommerce-product-page/"> Live Site </a> 
+
 <img src ="https://github.com/rachanahegde/python-weather-app/blob/master/screenshots/weather_app_desktop_forecast_page_screenshot.png">
 
 Flask weather app that displays the weather forecast for any city. 
