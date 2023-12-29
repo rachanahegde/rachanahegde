@@ -19,7 +19,7 @@ Product page featuring lightbox product gallery and cart functionality implement
 
 Flask weather app that displays the weather forecast for any city. 
 
-<a href="https://github.com/rachanahegde/python-weather-app"> Code </a> | <a href="https://weatherly-forecast-app.herokuapp.com/"> Live Site </a> 
+<a href="https://github.com/rachanahegde/python-weather-app"> Code </a> | <a href=""> Live Site (Currently Unavailable) </a> 
 
 <!--  
 #### Contact Info
