@@ -3,10 +3,10 @@
 ## I recently graduated from Nottingham University with a MSc Computer Science degree with distinction. I also have a first class BA in English Literature and a passion for front-end web development. Check out my projects below!
 
 ### Currently... 
-⭐️ Status: Learning JavaScript through the Complete JavaScript Course on Udemy <br />
+⭐️ Status: Learning JavaScript and React on Code Academy <br />
 
 ### Goals:  
-- Build 3 projects using JavaScript for my portfolio
+- Build 3 web development projects using a range of frameworks and languages (Tailwind, React, SQL) for my portfolio
 
 ### Latest Projects
 <img src="https://github.com/rachanahegde/tarot-card-reader/blob/main/screenshots/desktop-website/desktop-landing-page.jpeg">
