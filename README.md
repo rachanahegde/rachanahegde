@@ -9,6 +9,12 @@
 - Build 3 projects using JavaScript for my portfolio
 
 ### Latest Projects
+<img src="https://github.com/rachanahegde/tarot-card-reader/blob/main/screenshots/desktop-website/desktop-landing-page.jpeg">
+
+<img src="https://github.com/rachanahegde/tarot-card-reader/blob/main/screenshots/desktop-website/desktop-tarot-reading-explanations.jpeg">
+
+Interactive and responsive tarot card reader website built with HTML, Tailwind CSS 4, and vanilla JS. Users can select 3 cards to get a reading on their past, present, and future.
+
 <img src = "https://github.com/rachanahegde/ecommerce-product-page/blob/main/screenshots/Ecommerce-Page-Laptop.jpeg">
 
 Product page featuring lightbox product gallery and cart functionality implemented with HTML, CSS, and JavaScript based on UI designs from Frontend Mentor.
