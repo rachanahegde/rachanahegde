@@ -11,9 +11,9 @@
 ### Latest Projects
 <img src="https://github.com/rachanahegde/tarot-card-reader/blob/main/screenshots/desktop-website/desktop-landing-page.jpeg">
 
-<img src="https://github.com/rachanahegde/tarot-card-reader/blob/main/screenshots/desktop-website/desktop-tarot-reading-explanations.jpeg">
-
 Interactive and responsive tarot card reader website built with HTML, Tailwind CSS 4, and vanilla JS. Users can select 3 cards to get a reading on their past, present, and future.
+
+<a href="https://github.com/rachanahegde/https://github.com/rachanahegde/tarot-card-reader"> Code </a> | <a href="https://rachanahegde.github.io/tarot-card-reader/src/index.html"> Live Site </a> 
 
 <img src = "https://github.com/rachanahegde/ecommerce-product-page/blob/main/screenshots/Ecommerce-Page-Laptop.jpeg">
 
