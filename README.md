@@ -15,11 +15,6 @@ Interactive and responsive tarot card reader website built with HTML, Tailwind C
 
 <a href="https://github.com/rachanahegde/tarot-card-reader"> Code </a> | <a href="https://rachanahegde.github.io/tarot-card-reader/src/index.html"> Live Site </a> 
 
-<img src = "https://github.com/rachanahegde/ecommerce-product-page/blob/main/screenshots/Ecommerce-Page-Laptop.jpeg">
-
-Product page featuring lightbox product gallery and cart functionality implemented with HTML, CSS, and JavaScript based on UI designs from Frontend Mentor.
-
-<a href="https://github.com/rachanahegde/ecommerce-product-page"> Code </a> | <a href="https://rachanahegde.github.io/ecommerce-product-page/"> Live Site </a> 
 
 <img src ="https://github.com/rachanahegde/python-weather-app/blob/master/screenshots/weather_app_desktop_forecast_page_screenshot.png">
 
