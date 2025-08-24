@@ -1,6 +1,6 @@
 # Hi! My name is Rachana. 
 
-## I recently graduated from Nottingham University with a MSc Computer Science degree with distinction. I also have a first class BA in English Literature and a passion for front-end web development. Check out my projects below!
+## I am a frontend web developer with a MSc Computer Science degree with distinction. Check out my projects below!
 
 ### Currently... 
 ⭐️ Status: Learning JavaScript and React on Code Academy <br />
