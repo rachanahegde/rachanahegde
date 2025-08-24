@@ -3,7 +3,7 @@
 ## I am a frontend web developer with a MSc Computer Science degree with distinction. Check out my projects below!
 
 ### Currently... 
-⭐️ Status: Learning JavaScript and React on Code Academy <br />
+⭐️ Status: Currently working as a Frontend Developer with a focus on React & NextJS <br />
 
 ### Goals:  
 - Build 3 web development projects using a range of frameworks and languages (Tailwind, React, SQL) for my portfolio
