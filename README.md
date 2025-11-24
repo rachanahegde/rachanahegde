@@ -2,13 +2,7 @@
 
 ## I am a frontend web developer with a MSc Computer Science degree with distinction. Check out my projects below!
 
-### Currently... 
-⭐️ Status: Currently working as a Frontend Developer with a focus on React & NextJS <br />
-
-### Goals:  
-- Build 3 web development projects using a range of frameworks and languages (Tailwind, React, SQL) for my portfolio
-
-### Latest Projects
+## Latest Projects
 <img width="985" height="765" src="https://github.com/user-attachments/assets/d2a9a193-cf37-408c-8fd7-e67ed59ab0ce" />
 
 Rasoi is a Next.js web app for saving, organizing, and generating recipes - designed like a handwritten cookbook.
