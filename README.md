@@ -9,18 +9,18 @@
 - Build 3 web development projects using a range of frameworks and languages (Tailwind, React, SQL) for my portfolio
 
 ### Latest Projects
+<img width="985" height="765" src="https://github.com/user-attachments/assets/d2a9a193-cf37-408c-8fd7-e67ed59ab0ce" />
+
+Rasoi is a Next.js web app for saving, organizing, and generating recipes - designed like a handwritten cookbook.
+
+<a href="https://github.com/rachanahegde/rasoi-app"> Code </a> | Live Site (Coming Soon!) 
+
 <img src="https://github.com/rachanahegde/tarot-card-reader/blob/main/screenshots/desktop-website/desktop-landing-page.jpeg">
 
 Interactive and responsive tarot card reader website built with HTML, Tailwind CSS 4, and vanilla JS. Users can select 3 cards to get a reading on their past, present, and future.
 
 <a href="https://github.com/rachanahegde/tarot-card-reader"> Code </a> | <a href="https://rachanahegde.github.io/tarot-card-reader/src/index.html"> Live Site </a> 
 
-
-<img src ="https://github.com/rachanahegde/python-weather-app/blob/master/screenshots/weather_app_desktop_forecast_page_screenshot.png">
-
-Flask weather app that displays the weather forecast for any city. 
-
-<a href="https://github.com/rachanahegde/python-weather-app"> Code </a> | Live Site (Currently Unavailable)  
 
 <!--  
 #### Contact Info
